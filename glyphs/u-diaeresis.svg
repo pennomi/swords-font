@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2.572103mm"
+   height="3.7995632mm"
+   viewBox="0 0 2.572103 3.7995632"
+   version="1.1"
+   id="svg4384"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="u-diaeresis.svg">
+  <defs
+     id="defs4378" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="6.689592"
+     inkscape:cy="-10.973557"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1072"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4381">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.707992,-152.98092)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke-width:0.26458332"
+       d="m 30.401053,152.98138 c -0.07554,3.4e-4 -0.15468,0.039 -0.204639,0.11523 -0.06702,0.10228 -0.06702,0.11838 0,0.22066 0.09609,0.14667 0.266041,0.14607 0.362768,-0.002 0.05889,-0.0899 0.0634,-0.13421 0.02379,-0.22117 -0.03456,-0.0759 -0.106366,-0.11353 -0.181901,-0.11318 z m 1.036111,0.0563 c -0.176596,0.007 -0.264938,0.19969 -0.12764,0.3514 0.09115,0.10073 0.273614,0.0955 0.339513,-0.01 0.07258,-0.116 -6.1e-5,-0.29986 -0.131257,-0.33279 -0.02844,-0.007 -0.05539,-0.01 -0.08062,-0.009 z m -1.501201,0.96739 c -0.01606,0.004 -0.03399,0.0116 -0.05323,0.0232 -0.23277,0.1414 -0.233029,1.33491 -5.29e-4,1.84278 0.195249,0.42648 0.516263,0.71825 0.936376,0.85111 0.276355,0.0874 0.629005,0.0756 0.84491,-0.0289 0.223078,-0.10799 0.426858,-0.39153 0.536919,-0.74724 0.112408,-0.36328 0.104204,-1.2402 -0.01394,-1.48053 -0.06455,-0.13129 -0.117616,-0.17999 -0.205672,-0.19017 -0.186954,-0.0216 -0.221787,0.10283 -0.232029,0.82631 -0.0098,0.69144 -0.05193,0.89737 -0.221691,1.08055 -0.09294,0.10028 -0.143222,0.11609 -0.363802,0.11524 -0.282261,-10e-4 -0.539811,-0.098 -0.72657,-0.27388 -0.263811,-0.24839 -0.353491,-0.58997 -0.352433,-1.34307 7.94e-4,-0.51526 -0.03594,-0.69998 -0.148312,-0.67541 z"
+       id="path936" />
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.71337509mm"
+   height="2.9579635mm"
+   viewBox="0 0 0.71337509 2.9579635"
+   version="1.1"
+   id="svg16745"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="symbol-exclamation.svg">
+  <defs
+     id="defs16739" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-334.36616"
+     inkscape:cy="65.589534"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1072"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata16742">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-71.458785,-163.22927)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke-width:0.26458332"
+       d="m 71.958512,163.2298 c -0.06822,0.004 -0.133352,0.0315 -0.160197,0.0816 -0.05002,0.0934 -0.16519,1.12327 -0.181382,1.62419 -0.0093,0.28736 2.64e-4,0.33941 0.07234,0.39222 0.101774,0.0747 0.144163,0.0627 0.242879,-0.0698 0.05602,-0.0752 0.09428,-0.26432 0.14056,-0.69608 0.115631,-1.07879 0.121333,-1.19905 0.06356,-1.26866 -0.03875,-0.0467 -0.109548,-0.0672 -0.177769,-0.0636 z m -0.15296,2.41639 c -0.05819,-0.007 -0.1215,0.008 -0.191204,0.0444 -0.187304,0.0986 -0.20641,0.24318 -0.0522,0.39739 0.126942,0.12694 0.230762,0.13176 0.377241,0.0165 0.133551,-0.10506 0.1431,-0.24359 0.02532,-0.37001 -0.04794,-0.0515 -0.100978,-0.0811 -0.159162,-0.0884 z"
+       id="path1054" />
+  </g>
+</svg>

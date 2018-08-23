@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2.6147382mm"
+   height="3.0779605mm"
+   viewBox="0 0 2.6147382 3.0779605"
+   version="1.1"
+   id="svg3474"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="symbol-ampersand.svg">
+  <defs
+     id="defs3468" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-345.05874"
+     inkscape:cy="-85.612734"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1080"
+     inkscape:window-height="1897"
+     inkscape:window-x="-8"
+     inkscape:window-y="464"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3471">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-74.287862,-123.10367)">
+    <path
+       style="fill:#000000;stroke-width:0.26458332"
+       d="m 75.501242,123.10568 c -0.120048,0.008 -0.250201,0.0464 -0.389124,0.11473 -0.249451,0.12276 -0.349148,0.23116 -0.42633,0.46353 -0.07648,0.23026 -0.05958,0.41091 0.06459,0.69402 l 0.07648,0.17363 -0.191203,0.18604 c -0.242141,0.23623 -0.346591,0.46222 -0.347782,0.75137 -0.0015,0.37313 0.156297,0.58861 0.500228,0.68161 0.06187,0.0167 0.185599,0.0142 0.274918,-0.006 0.171858,-0.0383 0.555058,-0.26515 0.710035,-0.42012 0.06013,-0.0601 0.110316,-0.079 0.142627,-0.0543 0.476503,0.3654 0.821194,0.50586 0.942578,0.38448 0.06026,-0.0603 0.05965,-0.0763 -0.0052,-0.17519 -0.03926,-0.0599 -0.213687,-0.22573 -0.387573,-0.36845 -0.173886,-0.14271 -0.316272,-0.27112 -0.31626,-0.28525 1.2e-5,-0.0141 0.03819,-0.12608 0.08475,-0.24857 0.100573,-0.2646 0.112471,-0.6117 0.02325,-0.68574 -0.09457,-0.0785 -0.140239,-0.023 -0.233577,0.28577 -0.118739,0.39276 -0.138145,0.41753 -0.258382,0.33331 -0.175568,-0.12297 -0.716294,-0.76664 -0.752926,-0.89607 -0.0567,-0.20035 0.03011,-0.36565 0.249597,-0.47439 0.262501,-0.13005 0.353619,-0.12018 0.552421,0.0594 0.137615,0.12432 0.187288,0.14726 0.243396,0.11214 0.127203,-0.0796 0.109342,-0.25021 -0.04341,-0.41651 -0.140627,-0.15311 -0.313068,-0.22334 -0.513147,-0.20981 z m -0.436666,1.75545 0.265617,0.28526 0.2651,0.28577 -0.135393,0.11937 c -0.0747,0.0658 -0.20662,0.1562 -0.293005,0.20102 -0.329571,0.171 -0.541555,0.069 -0.541052,-0.26045 3.18e-4,-0.21512 0.08932,-0.37364 0.296623,-0.52658 z"
+       id="path1085"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

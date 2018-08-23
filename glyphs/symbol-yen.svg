@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1.9432031mm"
+   height="3.2978568mm"
+   viewBox="0 0 1.9432031 3.2978568"
+   version="1.1"
+   id="svg1759"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="symbol-yen.svg">
+  <defs
+     id="defs1753" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-100.61352"
+     inkscape:cy="-62.340463"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="699"
+     inkscape:window-height="388"
+     inkscape:window-x="225"
+     inkscape:window-y="1356"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1756">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.6117307,-129.04123)">
+    <path
+       style="fill:#000000;stroke-width:0.26458332"
+       d="m 10.484847,132.28675 c -0.145735,-0.1756 -0.185147,-0.38814 -0.169703,-0.91514 l 0.01545,-0.52737 -0.144468,-0.0299 c -0.08679,-0.018 -0.175096,-0.0108 -0.2211913,0.018 -0.055888,0.0349 -0.0894,0.0352 -0.1233805,0.001 -0.03398,-0.034 -0.011562,-0.0716 0.082537,-0.13864 0.1002798,-0.0714 0.1625888,-0.0857 0.2784318,-0.064 0.144782,0.0272 0.149238,0.0241 0.149238,-0.10372 0,-0.11461 -0.01471,-0.13171 -0.113411,-0.13171 -0.06238,0 -0.176197,0.0227 -0.2529389,0.0505 -0.199136,0.072 -0.2239381,0.0107 -0.054335,-0.13428 0.094374,-0.0807 0.1938709,-0.12501 0.2831019,-0.12612 0.132947,-0.002 0.137583,-0.008 0.137583,-0.17824 0,-0.14478 -0.03615,-0.22463 -0.201083,-0.4442 -0.130138,-0.17324 -0.264605,-0.29902 -0.3811275,-0.35649 -0.099023,-0.0488 -0.1693386,-0.10613 -0.1562523,-0.1273 0.079354,-0.12839 0.5956328,0.0921 0.7509798,0.32069 0.06896,0.10147 0.116171,0.138 0.136292,0.10544 0.01804,-0.0292 0.07971,-0.04 0.148966,-0.0262 0.09128,0.0182 0.132255,0.002 0.180031,-0.0708 0.101155,-0.15439 0.475361,-0.33657 0.624173,-0.30388 0.146997,0.0323 0.132167,0.0877 -0.03355,0.12539 -0.13062,0.0297 -0.319374,0.18809 -0.488739,0.41015 -0.084,0.11013 -0.114024,0.19868 -0.114024,0.3363 v 0.18681 l 0.189568,-0.0151 c 0.165751,-0.0132 0.206074,0.001 0.320958,0.11632 0.07227,0.0723 0.123495,0.15511 0.113843,0.1841 -0.03159,0.0949 -0.148916,0.0807 -0.251876,-0.0303 -0.08283,-0.0893 -0.125336,-0.10401 -0.236728,-0.0817 -0.121192,0.0242 -0.135765,0.0428 -0.135765,0.17262 v 0.14547 l 0.180715,-0.0271 c 0.157189,-0.0236 0.196475,-0.0125 0.301773,0.0851 0.149006,0.13809 0.09739,0.23716 -0.08117,0.1558 -0.05994,-0.0273 -0.177453,-0.0497 -0.261154,-0.0497 h -0.152175 l 0.02339,0.58208 c 0.0226,0.56207 0.01982,0.58827 -0.08045,0.762 -0.107151,0.18564 -0.182708,0.22113 -0.263523,0.12375 z"
+       id="path1013"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
