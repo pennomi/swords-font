@@ -10,7 +10,7 @@ The only thing requested is that you give attribution when using the font:
 
 # Download
 
-You probably don't want to develop this font yourself. Just [click here]() to download the `.ttf` file now!
+You probably don't want to develop this font yourself. Just [click here](https://github.com/pennomi/swords-font/raw/master/Swords.ttf) to download the `.ttf` file now!
 
 # Contributing
 
