@@ -1,4 +1,4 @@
-<span style="font-family:Swords; font-size: 24px">
+<span style="font-family:Swords II; font-size: 24px">
 
 # Font Test
 
@@ -68,5 +68,9 @@ The following verses are lines 1182–1185 of the tragedy Oedipus Rex by Sophocl
 Ὦ φῶς, τελευταῖόν σε προσϐλέψαιμι νῦν,
 ὅστις πέφασμαι φύς τʼ ἀφʼ ὧν οὐ χρῆν, ξὺν οἷς τʼ
 οὐ χρῆν ὁμιλῶν, οὕς τέ μʼ οὐκ ἔδει κτανών.
+
+## Secret Glyphs
+
+Try using the Dagger glyph (†), the Crossed Swords glyph (⚔), and the Generic Currency glyph (¤).
 
 </span>
