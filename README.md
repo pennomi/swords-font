@@ -10,17 +10,17 @@ The only thing requested is that you give attribution when using the font:
 
 # Download
 
-You probably don't want to develop this font yourself. Just [click here](https://github.com/pennomi/swords-font/raw/master/SwordsII.ttf) to download the `.ttf` file now!
+You probably don't want to develop this font yourself. Just [click here](https://github.com/pennomi/swords-font/raw/master/SwordsII-Regular.ttf) to download the `.ttf` file now!
 
 # Legacy Font
 
-The `Swords.ttf` file is an older version of the font, which was made before we knew how to do things better. The new font `SwordsII.ttf` is different enough that it breaks backwards compatibility, so we decided to create a new version altogether.
+The `Swords.ttf` file is an older version of the font, which was made before we knew how to do things better. The new font `SwordsII-Regular.ttf` is different enough that it breaks backwards compatibility, so we decided to create a new version altogether.
 
 # Contributing
 
 To add more glyphs or submit fixes to the font, you'll need [FontForge](https://fontforge.github.io).
 
-Once you have that installed, fork the repository, clone it, and open up `SwordsII.sfd`.
+Once you have that installed, fork the repository, clone it, and open up `SwordsII-Regular.sfd`.
 
 You can adjust individual glyphs or add some new ones! FontForge is pretty crazy sometimes, but there's decent documentation online for the adventurous.
 
