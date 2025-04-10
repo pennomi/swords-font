@@ -29,3 +29,5 @@ Once you've made changes, send a pull request into GitHub, and we'll review the 
 # Easter Eggs
 
 Try using the Dagger glyph (†), the Crossed Swords glyph (⚔), and the Generic Currency glyph (¤).
+
+You can also use swordy directional arrows: ←↑→↓ and ↖↗↘↙
